@@ -1,6 +1,6 @@
-# WeRaise Crowdfunding Platform - Backend
+# Crowdfunding Platform - Backend
 
-This repository contains the backend codebase for the WeRaise crowdfunding platform.
+This repository contains the backend codebase for the crowdfunding platform.
 
 ## Features
 This things has to be done
@@ -46,8 +46,6 @@ We welcome contributions to enhance the WeRaise backend. To contribute:
 - Enhance integration with payment gateways.
 - Develop user profile and dashboard functionality.
 
-## Contact
-
-Project Maintainer: Rahul Parihar [rahulaauji71@gmail.com]
+ Credit: Rahul Parihar
 
 ---
